@@ -62,7 +62,8 @@ I am a **Year 2 Data Science & Artificial Intelligence** undergraduate at **Tech
 *Full-stack responsive web application engineered following industry engineering workflows*
 - **Architecture:** Engineered responsive frontend interfaces with semantic markup, dynamic DOM interaction, and accessible layout design.
 - **Engineering Standards:** Followed strict Git branching workflows, peer pull requests, and mobile-first responsive architecture.
-- **Tech Stack:** `HTML5` · `CSS3` · `JavaScript` · `Git & GitHub Collaboration`
+- **Tech Stack:** `HTML5` · `CSS3` · `JavaScript` · `Git & GitHub Collaboration`  · `PHP` 
+
 
 ##### 🎨 Creative Coding & Algorithmic Visuals
 *Computational logic, simulation mechanics, and procedural graphics*

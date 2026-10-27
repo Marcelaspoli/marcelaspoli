@@ -12,7 +12,7 @@
 
 ### 💡 Executive Summary
 
-I am a **Year 2 Data Science & Artificial Intelligence** undergraduate at **Technological University Dublin (TU Dublin)**, aspiring to build a career as a **Data Scientist** and **Software Engineer**.
+I am a **Year 2 Data Science & Artificial Intelligence** undergraduate at **Technological University Dublin (TU Dublin)**, aspiring to build a career as a **Data Scientist** and **AI Engineer**.
 
 - 🏆 **Academic Excellence & Merit:** Earned over **$100,000+ in total merit scholarships** across 8 competitive university acceptances, demonstrating top-tier analytical capability, discipline, and problem-solving drive.
 - 🛠️ **Full-Spectrum Foundations:** Rigorous academic and project foundations spanning **Python, C, Java, JavaScript, Data Pipelines, High-Performance Algorithms, and Computer Systems Architecture**.

@@ -23,7 +23,7 @@ I am a **Year 2 Data Science & Artificial Intelligence** undergraduate at **Tech
 
 ### 💻 Featured Technical Projects
 
-#### 📍 Year 2 (Current Academic Year — 2025/2026)
+#### 📍 Year 2 (Current Academic Year — 2026/2027)
 
 ##### 🏆 [Huawei Techarena Hackathon Project](https://github.com/marcelaspoli)
 *Competitive engineering and systems challenge hosted by Huawei*

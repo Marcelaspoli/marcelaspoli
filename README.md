@@ -1,4 +1,4 @@
-# Hi, I'm Marcela Salomoni Poli 👋
+# Hi, I'm Marcela Poli 👋
 
 > *"Driven to design and build intelligent data pipelines, scalable software, and high-impact AI solutions."*
 

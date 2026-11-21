@@ -468,8 +468,4 @@ Experience communicating and collaborating across diverse technical and cultural
 
   <sub>© 2026 MARCELA POLI &nbsp; · &nbsp; DATA SCIENCE & ARTIFICIAL INTELLIGENCE</sub>
 
-  <br>
-
-  <sub>Curiosity in research. Precision in engineering. Purpose in innovation.</sub>
-
-</div>
+  

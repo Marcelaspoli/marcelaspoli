@@ -89,8 +89,6 @@ A competitive engineering and systems challenge hosted by Huawei, focused on sol
 ![Systems Engineering](https://img.shields.io/badge/Systems_Engineering-E8EFE9?style=flat-square)
 ![Optimization](https://img.shields.io/badge/Optimization-E8EFE9?style=flat-square)
 
-<sub>STATUS &nbsp; / &nbsp; Active implementation & final technical documentation</sub>
-
 <br>
 
 [Explore GitHub Profile](https://github.com/marcelaspoli)

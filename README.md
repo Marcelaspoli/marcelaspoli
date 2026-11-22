@@ -32,8 +32,6 @@
 
   <br><br>
 
-  <sub>ENGINEERING WITH PRECISION. INNOVATING WITH PURPOSE.</sub>
-
 </div>
 
 <br>

@@ -126,29 +126,37 @@ An exploratory data analysis and computational processing pipeline for high-volu
 
 ---
 
-#### 03. Data-Centric AI & Applied Analytics
+#### 03. AI Reliability Lab — Automated LLM Evaluation & Reliability Engineering
 
-**Statistical Modeling · Machine Learning · Predictive Analytics**
+**Artificial Intelligence · LLM Evaluation · AI Reliability Engineering**
 
-Applied statistical modeling, feature engineering, and predictive data pipelines.
+A modular evaluation framework designed to assess the accuracy, consistency, and reliability of AI-generated responses against verified knowledge sources.
 
 **Project Scope**
 
-- **Objective:** Preprocess, transform, and analyze datasets to uncover non-linear patterns, eliminate noise, and develop predictive machine learning models.
-- **Technical Focus:** Data preparation, feature engineering, statistical analysis, and model development.
-- **Methodology:** Exploratory analysis, transformation, preprocessing, and predictive modeling.
+- **Objective:** Develop an automated testing framework to identify hallucinations, factual inaccuracies, and inconsistencies in AI-powered conversational systems.
+- **System Architecture:** Modular integration of language models, reference datasets, automated response scoring, and structured evaluation pipelines.
+- **Reliability Engineering:** Assessment of factual correctness, knowledge grounding, and response quality, with planned extensions for consistency testing, latency measurement, and regression analysis.
+- **Applied Focus:** Evaluation of enterprise AI systems against company-specific policies and verified documentation to support trustworthy, production-oriented AI solutions.
 
 **Technologies & Concepts**
 
 ![Python](https://img.shields.io/badge/Python-E8EFE9?style=flat-square)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-E8EFE9?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-E8EFE9?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-E8EFE9?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-E8EFE9?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-E8EFE9?style=flat-square)
+![Gemma](https://img.shields.io/badge/Gemma-E8EFE9?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-E8EFE9?style=flat-square)
+![AI Reliability](https://img.shields.io/badge/AI_Reliability-E8EFE9?style=flat-square)
+![Automated Testing](https://img.shields.io/badge/Automated_Testing-E8EFE9?style=flat-square)
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-E8EFE9?style=flat-square)
+
+<sub>STATUS &nbsp; / &nbsp; Active development & evaluation framework expansion</sub>
 
 <br>
 
----
+[View Repository](https://github.com/marcelaspoli/AI_Reliability)
+
+<br>
 
 ### 03 &nbsp; / &nbsp; Academic Foundations
 
